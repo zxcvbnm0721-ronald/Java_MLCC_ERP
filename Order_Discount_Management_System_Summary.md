@@ -55,5 +55,6 @@ graph TD
 *此專案目前結構較偏向 UI 與邏輯混合，但可概念化為 MVC 架構。*
 
 ```mermaid
-[MVC價格流程圖](https://github.com/zxcvbnm0721-ronald/Java_MLCC_ERP/commit/0da454d6954a29987468c9656a44f463e6db03c1))
+<hr>
+![MVC價格流程圖](Code_Generated_Image.png)
 ```
