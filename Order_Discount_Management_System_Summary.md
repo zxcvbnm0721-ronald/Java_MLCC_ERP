@@ -56,5 +56,5 @@ graph TD
 
 ```mermaid
 <hr>
-![MVC價格流程圖](Code_Generated_Image.png)
+![流程圖](Code_Generated_Image.png)
 ```
