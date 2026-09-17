@@ -55,23 +55,5 @@ graph TD
 *此專案目前結構較偏向 UI 與邏輯混合，但可概念化為 MVC 架構。*
 
 ```mermaid
-graph LR
-    subgraph View (圖形介面)
-        UI[Order1UI (JFrame)]
-        Input[JTextField/JRadioButton]
-        Output[JTextArea]
-    end
-
-    subgraph Controller (控制器)
-        Event[MouseListener (Order1UI$2)]
-    end
-
-    subgraph Model (模型/邏輯)
-        Logic[訂單計算邏輯 (內建於Controller中)]
-    end
-
-    UI --> |使用者操作| Input
-    Input --> |觸發事件| Event
-    Event --> |傳遞數據| Logic
-    Logic --> |計算結果| Output
+[MVC價格流程圖](Code/Generated_lmage)
 ```
