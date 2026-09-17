@@ -54,7 +54,6 @@ graph TD
 ## 9. MVC架構流程圖 (概念性)
 *此專案目前結構較偏向 UI 與邏輯混合，但可概念化為 MVC 架構。*
 
-```mermaid
 <hr>
 ![流程圖](Code_Generated_Image.png)
 
